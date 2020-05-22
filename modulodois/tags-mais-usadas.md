@@ -97,6 +97,7 @@
 <td>Duplo</td>
 <td>Formata para dar ênfase ao conteúdo</td>
 <td><p>Gatos são <em>fofos</em></p></td>
+</tr>
 <tr>
 <td>br</td>
 <td>Break</td>
@@ -104,5 +105,11 @@
 <td>Formata para uma quebra de linha</td>
 <td><p>Quando usado <br> quebra a linha <p></td>
 </tr>
+<tr>
+<td>img</td>
+<td>Image</td>
+<td>Único</td>
+<td>Adiciona uma imagem ao arquivo</td>
+<td><img src="https://github.com/JaderMeinerz/HTML4Noobs/blob/readme-edit/images/html.png" width="50px"></td>
 </tr>
 </table>
