@@ -2,7 +2,7 @@
   <img src="/images//html.png" alt="HTML Logo" width="120px">
 </h1>
 <h1 align="center">HTML4Noobs</h1>
-<p align="center">Seja bem-vindo ao HTML4Noobs, seu curso introdutório de HTML5 provido pela He4rt Developers&trade;</p>
+<p align="center">Seja bem-vindo ao HTML4Noobs, seu curso introdutório de HTML5 provido pela <a href="https://heartdevs.com/" target="_blank">He4rt Developers&trade;</a></p>
 
 <h2>Tags mais usadas</h2>
 <p>Aqui ficará uma lista das tags mais usadas na linguagem e suas funções, sinta-se livre para voltar aqui caso esqueça ou precise de alguma.</p>
