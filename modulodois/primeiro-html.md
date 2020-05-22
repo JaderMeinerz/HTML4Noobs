@@ -2,7 +2,7 @@
   <img src="/images//html.png" alt="HTML Logo" width="120px">
 </h1>
 <h1 align="center">HTML4Noobs</h1>
-<p align="center">Seja bem-vindo ao HTML4Noobs, seu curso introdutório de HTML5 provido pela He4rt Developers&trade;</p>
+<p align="center">Seja bem-vindo ao HTML4Noobs, seu curso introdutório de HTML5 provido pela <a href="https://heartdevs.com/" target="_blank">He4rt Developers&trade;</a></p>
 
 <h2>Primeiro HTML</h2>
 <p>Para começarmos, crie uma pasta com o nome "html4noobs" na sua área de trabalho, então abra o VSCode e vá em Open folder</p>
