@@ -32,5 +32,23 @@ ou o caminho dela. Assim:</p>
 <img src="sunset.jpg">
 ```
 
-<p>Onde o resultado será esse:</p>
-<img src="sunset.jpg">
+<p>Ficando assim no código:</p>
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="minha segunda página em HTML ">
+    <title>Adicionando imagens</title>
+</head>
+<body>
+    <header>
+        <h1>Adicionaremos uma imagem nessa página<h1>
+        </header>
+        <img src="sunset.jpg">
+</body>
+</html>
+```
+<p>E gerando esse resultado:</p>
+<img src="/images/sunset.png">
