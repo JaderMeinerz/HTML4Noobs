@@ -25,6 +25,12 @@
     <li>
      <a href="/modulodois/primeiro-html.md">Primeiro HTML</a>
     </li>
+    <li>
+      <a href="/modulodois/adicionando-imagens.md">Adicionando imagens</a>
+    </li>
+    <li>
+      <a href="/modulodois/criando-link.md">Criando links</a>  
+    </li>
   </ol>
  <h3>Módulo três - Acessibilidade(Em Breve)</h3>
  <h3>Módulo quatro - SEO(Em Breve)</h3>
