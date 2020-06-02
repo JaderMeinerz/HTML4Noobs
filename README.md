@@ -34,6 +34,9 @@
     <li>
       <a href="/modulodois/listas.md">Listas</a>
     </li>
+    <li>
+      <a href="/modulodois/tabelas.md">Tabelas</a>
+    </li>
   </ol>
  <h3>Módulo três - Acessibilidade(Em Breve)</h3>
  <h3>Módulo quatro - SEO(Em Breve)</h3>
