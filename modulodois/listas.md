@@ -6,7 +6,7 @@
 target="_blank">He4rt Developers&trade;</a></p>
 
 <h2>Listas</h2>
-<p>Em HTML existem listas ordenadas, não ordenadas e de definição e podemos montá-las desta forma:</p>
+<p>Em HTML existem listas ordenadas, não ordenadas e de definição e podemos montá-las da seguinte forma:</p>
 <h3>Listas ordenadas</h3>
 <p>Para montarmos listas ordenadas usamos a tag ol e a tag li sendo <em>ol</em> a definição de uma lista ordenada e <em>li</em> cada 
 item da lista. Ficando desta forma:</p>
