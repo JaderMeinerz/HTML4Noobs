@@ -31,6 +31,9 @@
     <li>
       <a href="/modulodois/criando-link.md">Criando links</a>  
     </li>
+    <li>
+      <a href="/modulodois/listas.md">Listas</a>
+    </li>
   </ol>
  <h3>Módulo três - Acessibilidade(Em Breve)</h3>
  <h3>Módulo quatro - SEO(Em Breve)</h3>
