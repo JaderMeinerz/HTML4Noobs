@@ -44,7 +44,7 @@
       <a href="/modulotres/introducao-ao-modulo.md">Introdução ao Módulo</a>  
     </li>
     <li>
-      <a href="/modulotres/declarando-o-documento.md">Declarando a Linguagem</a>
+      <a href="/modulotres/declarando-a-linguagem.md">Declarando a Linguagem</a>
     </li>
     <li>
       <a href="/modulotres/organizando-o-texto.md">Organização do texto</a>
