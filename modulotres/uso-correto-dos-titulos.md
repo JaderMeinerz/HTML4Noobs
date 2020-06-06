@@ -7,8 +7,8 @@ target="_blank">He4rt Developers&trade;</a></p>
 
 <h2>Utilização correta dos títulos</h2>
 <p>Os títulos se dão pelas tags <em>h1</em>, <em>h2</em>, <em>h3</em>, <em>h4</em>, <em>h5</em> e <em>h6</em> e deve ser usado de forma 
-hierárquica, sendo <em>h1</em> usado para o título principal e somente para isso, com <em>h2</em>como subtópico e assim sucessivamente,
- <b>não se devendo pular uma tag só por estilo a estilização se dá pelo CSS</b>, sendo usado da forma correta assim:</p>
+hierárquica, sendo <em>h1</em> usado para o título principal e somente para isso, com o <em>h2</em> como subtópico e assim sucessivamente,
+ <b>não se devendo pular uma tag só por estilo, já que a estilização se dá pelo CSS não pelo html</b>, pois a movimentação pela página pode se dar por atalhos, levando o usuário diretamente para títulos e o uso inadequado das tags pode levar à confusão de usuários que tenham qualquer limitação. Exemplo de forma correta de se usar o HTML:</p>
  
  ```html
  <!DOCTYPE hmlt>
@@ -42,6 +42,7 @@ hierárquica, sendo <em>h1</em> usado para o título principal e somente para is
         <h1>Título principal</h1><!-- lembre-se que o título principal vai dentro da tag header-->
       </header>
       <h3>Subtópico</h3>
+      <h6>Subtópico</h6>
       <h5>Subtópico</h5>
     </body>
  </html>
