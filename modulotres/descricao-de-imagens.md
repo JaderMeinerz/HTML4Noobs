@@ -36,7 +36,7 @@ de tela.</p>
 <h3>Imagens decorativas</h3>
 <p>Mesmo para imagens decorativas <b>deve-se usar o atributo <em>alt</em></b>, porém, deixa-se o atríbuto vazio. Desta forma:</p>
 
-```
+```html
 <img src="html.png" alt="">
 ```
 <p>Imagem crashada está aqui embaixo</p>
