@@ -56,7 +56,7 @@
       <a href="/modulotres/descricao-de-imagens.md">Descrição de imagens</a>
     </li>
     <li>
-      <a href="/modulotres/uso-correto-de-botoes.md">Uso correto do botões</a>
+      <a href="/modulotres/uso-correto-de-botoes.md">Uso correto de botões</a>
     </li>
     <li>
       <a href="/modulotres/link-certo.md">Criando links do jeito certo</a>
