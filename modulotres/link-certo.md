@@ -5,10 +5,8 @@
 <p align="center">Seja bem-vindo ao HTML4Noobs, seu curso introdutório de HTML5 provido pela <a href="https://heartdevs.com/" target="_blank">He4rt Developers&trade;</a></p>
 
 <h3>Criando links do jeito certo</h3>
-<p>O uso incorreto dos links pode ser um grande impecilho para pessoas que usam Leitores de Tela pois muitos sites usam indicadores como "Clique aqui" para referênciar um link
-sendo que uma das maneiras a se navegar pela página é através dos links, fazendo com que a pessoa chegue a um link dito como "Clique aqui" mas não explique o para que serve esse link
-seja pra direcionar outro site, para uma outra parte da página, para fazer download de alguma coisa. Por isso a primeira boa prática para criação de links é <strong>use 
-palavras-chave</strong>. Exemplo:</p>
+<p>O uso incorreto dos links pode ser um grande empecilho para pessoas que usam Leitores de Tela, pois muitas páginas usam o indicador "Clique aqui" para referenciar um link. Para usuarios de leitores de tela, uma das maneiras a se navegar pela página é ir de link em link, agora pense se você <b>não pudesse ver a página</b>, usasse esse método, e chegasse a um link, que ao ser lido indicasse "Clique aqui", o que você concluiria?</br>
+ Por isso a primeira boa prática para criação de links é <strong>use palavras-chave</strong>. Exemplo:</p>
 <p><b>Maneira correta</b></p>
 
 ```html
