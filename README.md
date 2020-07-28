@@ -14,7 +14,7 @@
       <a href="/introducao/programas-necessarios.md">Programas necessários</a>
    </li>
    </ol>
-<h3>Módulo dois - O HMTL</h3>
+<h3>Módulo dois - O HMTL</h3> (Em andamento)
   <ol type="1" start="3">
     <li>
      <a href="/modulodois/tags.md">Tags</a>
@@ -38,7 +38,7 @@
       <a href="/modulodois/tabelas.md">Tabelas</a>
     </li>
   </ol>
-<h3>Módulo três - Acessibilidade(Em andamento)</h3>
+<h3>Módulo três - Acessibilidade(Fechado por enquanto)</h3>
   <ol type="1" start="10">
     <li>
       <a href="/modulotres/introducao-ao-modulo.md">Introdução ao Módulo</a>  
